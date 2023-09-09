@@ -10,6 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
         sessionStorage.setItem('username', username);
 
         // Redirigez l'utilisateur vers la page de chat
-        window.location.href = 'index.html';
+        window.location.href = 'index2.html';
     });
 });
